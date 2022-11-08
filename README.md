@@ -1,5 +1,5 @@
-视频教程:
-https://edu.csdn.net/course/detail/35615
+教程:
+https://blog.csdn.net/webrtc_video/article/details/115349375
 
 webassembly ffmpeg测试项目:
 
